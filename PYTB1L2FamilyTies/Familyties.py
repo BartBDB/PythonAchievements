@@ -1,6 +1,6 @@
 Age = 18
 Name = "Bart de Boer"
-Distance = 30
+Distance = 30.5
 Place = "Mijdrecht"
 
 print("Hallo, ik ben " + Name + ". Ik ben " + str(Age) + " jaar.")
